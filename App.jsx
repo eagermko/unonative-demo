@@ -29,6 +29,7 @@ export default function App() {
             className='w-64px h-64px text-red mt-4 ml-4'
           />
         </View>
+        <Text className="text-primary">Theme Color</Text>
 
         <Text className='mt-15px text-#A1A4B2 text-base leading-26.4px mx-58px text-center'>
           Welcome to the world of React Native + UnoCSS!

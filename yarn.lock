@@ -1940,7 +1940,7 @@
     pathe "^1.1.0"
     perfect-debounce "^0.1.3"
 
-"@unocss/config@0.50.6":
+"@unocss/config@0.50.6", "@unocss/config@^0.50.6":
   version "0.50.6"
   resolved "https://registry.yarnpkg.com/@unocss/config/-/config-0.50.6.tgz#b2f17a4a2443460da6a1bca5ffc77f73a1191c6d"
   integrity sha512-/IdnXyU4NOQCXBryZsEv9GYAnTvCZ/wmm5mv5ZIPXrS1ZClVbCbnwUxIW08t4EHIX/E9gSFClzXJ52pLBFkZ7g==
@@ -7089,13 +7089,14 @@ unocss@^0.50.4:
     "@unocss/transformer-variant-group" "0.50.6"
     "@unocss/vite" "0.50.6"
 
-unonative@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/unonative/-/unonative-0.0.4.tgz#d2bea6a2886be732a863e061729a43d1d1c645b3"
-  integrity sha512-IP9GDo85H3jMxCVTaVkZt7g7xq2oX+RmSkT/C0b81SD6+2AG5FrR2lPpo25UT92WnoOOAo4X7CUp6C07A7T5gg==
+unonative@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/unonative/-/unonative-0.0.7.tgz#d3e78680554d6e9ef1c866497651129caec536ad"
+  integrity sha512-lQMoOBkWqnrdd1L0JK/wx/ijQVCuHpDO2di8TQ2fKYn+s48EQb0MUXKqsUkYaimWZCO8DWZKrn/n318DungXFQ==
   dependencies:
     "@babel/helper-module-imports" "^7.18.6"
     "@iconify/utils" "^2.1.5"
+    "@unocss/config" "^0.50.6"
     css-to-react-native "^3.2.0"
     cssom "^0.5.0"
     unocss "^0.50.4"

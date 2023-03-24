@@ -17,7 +17,7 @@
     "react-native": "0.71.4",
     "react-native-svg": "13.4.0",
     "typescript": "^4.9.4",
-    "unonative": "^0.0.4"
+    "unonative": "^0.0.7"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
